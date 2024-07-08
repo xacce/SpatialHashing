@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.xacce.SpatialHashing.Editor.Tests",
+  "references": [
+    "Unity.com.xacce.SpatialHashing"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
